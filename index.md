@@ -17,4 +17,5 @@ Internal guides on how to organize HackCU events, workshops and more.
 </ul>
 
 ## Extra 
-**Open sourced here**: [{{site.original_repo}}]({{site.original_repo}})
+- **[Add new Blueprint]({{site.original_repo}}/new/master/_pages)**
+- **[GitHub project]({{site.original_repo}})**
