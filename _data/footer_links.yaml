@@ -1,0 +1,10 @@
+- name: HackCU
+  url: https://hackcu.org/
+- name: Local Hack Day
+  url: https://local.hackcu.org/
+- name: S2S
+  url: https://startups2students.org/
+- name: CU Workshops
+  url: https://events.hackcu.org/
+- name: Team
+  url: https://team.hackcu.org/
