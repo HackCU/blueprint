@@ -27,6 +27,7 @@ Blueprint for our smaller hackathon. Event around 100-250 hackers + mentors + vo
 - Send Day of email with list of all stuff that is happenning to hackers
 - Manage social media during event (tweet, Instagram stories)
 - Send thank you email post event
+- Organize photography and video schedules (optional)
 
 ### Experience
 
