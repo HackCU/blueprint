@@ -5,7 +5,7 @@
 </p>
 <br>
 
-📄 HackCU internal (and open sourced) blueprints. Documentation on how to organize events and more at HackCU.
+💡HackCU internal (and open sourced) blueprints. Documentation on how to organize events and more at HackCU.
 
 # Run project
 
@@ -13,7 +13,7 @@ Needs: Ruby
 
 ## Local 
 
-1. `git clone https://github.com/hackcu/pages && cd pages`
+1. `git clone https://github.com/hackcu/blueprint && cd blueprint`
 2. `gem install jekyll && gem install jemoji`
 3. `jekyll serve --watch`
 
@@ -34,8 +34,8 @@ Deployment is done automatically by [GitHub pages](https://pages.github.com/). Y
 ```liquid
 ---
 layout: base
-title: Hacker Guide
-description: This is a hacker guide for HackCU IV edition
+title: HackCU blueprint
+description: This is a blueprint to learn how to organize HackCU
 ---
 ```
 
