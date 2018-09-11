@@ -32,6 +32,9 @@ Blueprint for our career fair like event Startups2Students.
 ### Experience
 
 - Create slideck for opening
+- Ask for projector and microphones to Idea Forge
+- Sound test and play music while event is not happenning
+- Set up projector and laptop with it (bring HDMI cable)
 
 ### Sponsorship/Finance
 
@@ -45,6 +48,7 @@ Blueprint for our career fair like event Startups2Students.
 
 - Update site dates and FB event link
 - Empty typeform and sync it to be accessible for someone at Sponsorship
+- Set up mail access to info@Startups2Students.org to Sponsorship
 
 ### Logistics
 
@@ -55,4 +59,8 @@ Blueprint for our career fair like event Startups2Students.
     - Rule of thumb: 2 pieces of medium pizza per person
     - Ordering 15 huge pizzas from Cosmo's should be enough
     - Order salad for healthy people is possible
+- Move tables of Idea Forge to the side 
+- Set up tables and chairs at 5PM
+
+
 
